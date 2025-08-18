@@ -1,4 +1,6 @@
-﻿Clear-Host 
+# Editado por <<Valeria R.S.>> el <<17/08/2025>>
+ 
+ Clear-Host 
 
 Import-Module AuditoriaBasica 
 
@@ -45,5 +47,6 @@ switch ($opcion) {
         Write-Host "Opción no válida." 
 
     } 
+
 
 } 
