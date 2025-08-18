@@ -1,6 +1,16 @@
 # PowerShell-Cybersecurity-VRS
-Hi! Vale Rocha's repository for career-related stuff.
+# Vale Rocha's Cybersecurity Repository
 
-So, I'll begin to upload everything I see in my Cybersecurity class; this is with the purpose of having some kind of "personal repository", but also to keep everything I've learned so far available.
+Welcome! This is my personal repository for career-related materials.
 
-I uploaded files with the first exercises we did in class/home. They include simple tasks to get familiar with PowerShell, PowerShell ISE and virtual machines' environment. We have some basic analysis of my machines
+Here, I’ll be uploading everything I encounter in my Cybersecurity class. The goal is to create a centralized space for everything I’ve learned so far—both as a personal archive and as a way to share my progress.
+
+The initial files include the first exercises we completed in class and at home. These cover basic tasks designed to help us get familiar with PowerShell, PowerShell ISE, and virtual machine environments. You’ll also find some basic analysis of my system’s data (which has now been anonymized).
+
+
+
+## ⚠️ Privacy
+
+- Usernames and device names have been anonymized.
+- No passwords or credentials are included.
+- The content is technical and reproducible.
