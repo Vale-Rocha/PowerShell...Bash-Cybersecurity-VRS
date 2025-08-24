@@ -18,7 +18,7 @@ If you're reading this: I'm here to learn, and I’ll keep doing my best.
 
 ## 📜 Included Scripts
 
-So far, I’ve developed six exercises:
+So far:
 
 1. **CMD Introduction** – Basic command-line analysis and familiarization.
 2. **PowerShell Basics** – First steps and commands in PowerShell.
@@ -26,6 +26,7 @@ So far, I’ve developed six exercises:
 4. **Logic Operations in PowerShell ISE** – Using loops and file filtering to detect memory usage.
 5. **Functions & Error Handling** – Verifying file existence with PowerShell ISE and managing mistakes.
 6. **Service Analysis** – Exploring modules and manifests in both PowerShell and PowerShell ISE.
+7. **Shell Scripting** - Entering Bash and doing some basic analyisis of users, services and files.
 
 ---
 
