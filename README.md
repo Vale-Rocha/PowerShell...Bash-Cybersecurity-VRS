@@ -37,20 +37,6 @@ So far:
 7. **Shell Scripting**
    > Entering Bash and doing some basic analyisis of users, services and files.
 
-## PHASE II (Ej17)
-
-1. **Use of the Have I Been Pwned? API**  
-   This script checks whether any email address has been compromised using the [Have I Been Pwned?](https://haveibeenpwned.com/API/v3) API.
-
-### ⚠️ IMPORTANT
-
-To run the Python script correctly, you must include a text file named `apikey.txt` in the same directory. This file should contain your personal API key.
-
-**Example content of `apikey.txt`: 1234567890abcdef1234567890abcdef
-
-> 🔐 **Do not share your API key publicly.**  
-> This key is private and should be kept secure to prevent unauthorized use.
-
 ---
 
 ## 📚 Lessons Learned
